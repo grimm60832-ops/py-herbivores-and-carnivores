@@ -36,4 +36,3 @@ class Carnivore(Animal):
         other.health -= 50
         if other.health <= 0:
             other.die()
-#
